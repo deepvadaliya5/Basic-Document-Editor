@@ -1,4 +1,4 @@
-// not end to end project but a basic document editor that can do basic document editor that can work with text and images as of now , we'll update this in future
+// not end to end project but a basic document editor that can do basic document editor work that can work with text and images as of now , we'll update this in future
 
 #include <iostream>
 #include <vector>
